@@ -41,7 +41,7 @@ li a {
 }
 
 #page1 {
- background-image: url("/sunset wallpaper.jpg");
+ background-image: url("./sunset wallpaper.jpg");
 } 
 
 
@@ -53,7 +53,7 @@ p {
 }
 
 #page2 {
-    background-image: url("/mountain wallaper.jpg");
+    background-image: url("./mountain wallaper.jpg");
 } 
 
 p {
@@ -64,7 +64,7 @@ p {
 }
 
 #page3 {
-    background-image: url("/landscape with water fountain wallpaper.jpg");
+    background-image: url("./landscape with water fountain wallpaper.jpg");
 }
 
 p {
@@ -75,7 +75,7 @@ p {
 }
 
 #page4 {
-    background-image: url("/mountains and grass wallpaper.jpg");
+    background-image: url("./mountains and grass wallpaper.jpg");
 }
 
 
